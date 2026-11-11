@@ -1,0 +1,13 @@
+import { _ as _export_sfc, o as openBlock, c as createElementBlock, ak as createStaticVNode } from "./chunks/framework.BgdaXawp.js";
+const __pageData = JSON.parse('{"title":"Appendix","description":"","frontmatter":{},"headers":[],"relativePath":"docs/resources_download.md","filePath":"docs/resources_download.md"}');
+const _sfc_main = { name: "docs/resources_download.md" };
+function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
+  return openBlock(), createElementBlock("div", null, [..._cache[0] || (_cache[0] = [
+    createStaticVNode('<h1 id="appendix" tabindex="-1">Appendix <a class="header-anchor" href="#appendix" aria-label="Permalink to &quot;Appendix&quot;">​</a></h1><ul><li>System Image &amp; Source Code：If you want to get the system image and source code, please email us at <a href="mailto:support@hiwonder.com" target="_blank" rel="noreferrer">support@hiwonder.com</a>, and share your order number 😃</li><li>Google Drive：<a href="https://drive.google.com/drive/folders/16g1Shgb4w9-VTxL86rBxQ5qGpDoMvjlD?usp=sharing" target="_blank" rel="noreferrer">ROSMan Resources</a></li><li>Remote Connection Tool：<a href="https://drive.google.com/drive/folders/1cUqV4tXXj0RFdTr9A_5nSybs0iaYHZtY?usp=sharing" target="_blank" rel="noreferrer">Remote Connection Tool</a></li><li>SD Card Formatting Tool：<a href="https://drive.google.com/drive/folders/132sZ21SFhhWTem_EijWM-Qxt0ku5v_Hp?usp=sharing" target="_blank" rel="noreferrer">SD Card Formatting Tool</a></li><li>Image Flashing Tool：<a href="https://drive.google.com/drive/folders/1f7tLfgB-1pYbwsq-mllmFPu1uumlChm5?usp=sharing" target="_blank" rel="noreferrer">Image Flashing Tool</a></li><li>File Transfer Tool：<a href="https://drive.google.com/drive/folders/1wY4nSO-8-BFTsZEvWhWvkyLpaRa3Kbxj?usp=sharing" target="_blank" rel="noreferrer">File Transfer Tool</a></li><li>Virtual Machine Installation Pack：<a href="https://drive.google.com/drive/folders/1yQFnLCWkV8SVhChdj9-2_hpYq65xU7K1?usp=sharing" target="_blank" rel="noreferrer">Virtual Machine Installation Pack</a></li><li>APP Installation Pack (Android)：<a href="https://play.google.com/store/apps/details?id=com.hiwonder.wondernex" target="_blank" rel="noreferrer">WonderNex</a></li><li>APP Installation Pack (iOS)：<a href="https://apps.apple.com/us/app/wondernex/id6474991135" target="_blank" rel="noreferrer">WonderNex</a></li><li>Firmware burning tool : <a href="https://drive.google.com/drive/folders/1LwV4TehqX6nJHUp0eF_EUePXH1o-WiQQ?usp=sharing" target="_blank" rel="noreferrer">Firmware burning tool</a></li></ul>', 2)
+  ])]);
+}
+const resources_download = /* @__PURE__ */ _export_sfc(_sfc_main, [["render", _sfc_render]]);
+export {
+  __pageData,
+  resources_download as default
+};
